@@ -1,4 +1,4 @@
-# Chord Generator Application
+# Chord Generator
 
 ## Overview
 The Chord Generator Application is a Node.js-based tool designed to generate a random set of chords in a given key. This application is useful for musicians, composers, and music enthusiasts who want to explore different chord progressions and enhance their musical creativity.
